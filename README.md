@@ -19,6 +19,10 @@ Data analysis codes can be found in the "codes" folder. These scripts reproduce 
 **Who Can Use It**
 The code and data are openly available to anyone for research purposes.
 We encourage replication, re-analysis, and methodological extensions of this work to advance the study of habit formation in humans.
+[Experimental Habits App Code](https://github.com/SchonbergLab/App-Experiment-Habits) ©️ 2025 by [Maya Bar Or](https://orcid.org/0000-0001-5537-8930) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) 
+![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) 
+![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg)
 
 **Citation**
 If you use this code or data, please cite:
