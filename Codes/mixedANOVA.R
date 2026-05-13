@@ -3,7 +3,7 @@ library(emmeans)
 library(rstatix)
 
 # Load your data (replace with actual file path)
-df <- read.csv("/Users/maya/Library/Mobile Documents/com~apple~CloudDocs/Documents/App/analysis_scripts/rt_stars_training3.csv")
+df <- read.csv("rt_stars_training3.csv")
 
 # Ensure categorical variables are factors
 df$Group <- as.factor(df$Group)  # Between-subjects
