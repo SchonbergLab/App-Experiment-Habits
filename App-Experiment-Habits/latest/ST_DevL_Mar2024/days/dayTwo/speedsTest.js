@@ -181,7 +181,7 @@ async function startIntervalSpeeds() {
                     };
 
                 };
-            }, 900);// (Maximal carSpeed)*1000
+            }, 1100);// (Maximal carSpeed)*1000
 
         let sessionTimerSpeeds = setTimeout(function timecountSpeeds() {
             // document.getElementById("blueButton").style.display = "none";
